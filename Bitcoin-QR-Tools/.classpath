@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="src/lib/bitcoinj-core-0.13.6-bundled.jar"/>
+	<classpathentry kind="lib" path="src/lib/javase-2.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/zxing-core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/qrgen-core-2.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/zxing-javase-3.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
